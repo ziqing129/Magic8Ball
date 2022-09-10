@@ -18,5 +18,10 @@ namespace Magic8Ball.ConsoleApp
         }
 
         public string Name { get; }
+
+        public virtual string GetInformation()
+        {
+            return $"My name is: {Name}!!";
+        }
     }
 }

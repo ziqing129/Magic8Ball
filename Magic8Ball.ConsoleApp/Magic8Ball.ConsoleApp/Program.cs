@@ -1,9 +1,10 @@
 ﻿using Magic8Ball.ConsoleApp;
+using Magic8Ball.ConsoleApp.Pets;
 
-var dogPet = new Pet("Milo");
-var catPet = new Pet("Songxiaogou");
-var robotPet = new Pet("Cherry");
+var dogPet = new Dog("Milo");
+var catPet = new Cat("Songxiaogou");
+var robotPet = new Robot("Cherry");
 
-Console.WriteLine(dogPet.Name);
-Console.WriteLine(catPet.Name);
-Console.WriteLine(robotPet.Name);
+Console.WriteLine(dogPet.GetInformation());
+Console.WriteLine(catPet.GetInformation());
+Console.WriteLine(robotPet.GetInformation());
