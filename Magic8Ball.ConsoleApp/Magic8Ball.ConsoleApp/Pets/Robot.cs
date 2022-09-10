@@ -17,5 +17,10 @@ namespace Magic8Ball.ConsoleApp.Pets
         {
             return $"{base.GetInformation()} + My Charge is {Charge}";
         }
+
+        public override string GetMorningRoutine()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

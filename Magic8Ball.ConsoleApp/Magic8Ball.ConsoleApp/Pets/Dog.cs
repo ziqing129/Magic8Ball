@@ -18,5 +18,10 @@ namespace Magic8Ball.ConsoleApp.Pets
         {
             return $"{base.GetInformation()} I barked {BarkedToday} times today!!";
         }
+
+        public override string GetMorningRoutine()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -15,8 +15,15 @@ namespace Magic8Ball.ConsoleApp.Pets
         }
         public override string GetInformation()
         {
-            return $"{base.GetInformation()} I talk like {sound}";
+            return $"{base.GetInformation()} I talk like {sound}!";
         }
 
+        public override string GetMorningRoutine()
+        {
+            return "In the morning when my human servants wake up, I yawn and go back to sleep again. " +
+                "\nWhy are human so loud???" +
+                "\nI wake up at noon and poop. My servants will clean it for me." +
+                "\nThen I ask for food from my human roommates.";
+        }
     }
 }
