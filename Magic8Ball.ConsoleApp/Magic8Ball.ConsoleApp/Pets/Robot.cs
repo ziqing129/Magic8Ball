@@ -20,7 +20,21 @@ namespace Magic8Ball.ConsoleApp.Pets
 
         public override string GetMorningRoutine()
         {
-            throw new NotImplementedException();
+            return $"Morning routine of Robot from brand {Name}: " +
+                "\n \n " +
+                "1. Check charge. " +
+                "If charge is below 50, go to charger and recharge." +
+                $" Currently my charge is {Charge}." +
+                $"\n" +
+                $"2. Clean the living room." +
+                $"\n" +
+                $"3. Clean the bed room." +
+                $"\n" +
+                $"4. Clean the bathroom." +
+                $"\n" +
+                $"5. Clean the Kitchen." +
+                $"\n" +
+                $"6. Return to my home.";
         }
     }
 }
