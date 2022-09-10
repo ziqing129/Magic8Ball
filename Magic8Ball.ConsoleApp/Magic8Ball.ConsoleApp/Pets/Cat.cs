@@ -18,5 +18,9 @@ namespace Magic8Ball.ConsoleApp.Pets
             return $"{base.GetInformation()} I talk like {sound}";
         }
 
+        public override string GetMorningRoutine()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
