@@ -13,3 +13,18 @@ C:\Users\alice\source\repos\Magic8Ball\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleA
 C:\Users\alice\source\repos\Magic8Ball\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.pdb
 C:\Users\alice\source\repos\Magic8Ball\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.genruntimeconfig.cache
 C:\Users\alice\source\repos\Magic8Ball\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\ref\Magic8Ball.ConsoleApp.dll
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\Magic8Ball.ConsoleApp.exe
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\Magic8Ball.ConsoleApp.deps.json
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\Magic8Ball.ConsoleApp.runtimeconfig.json
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\Magic8Ball.ConsoleApp.dll
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\ref\Magic8Ball.ConsoleApp.dll
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\bin\Debug\net6.0\Magic8Ball.ConsoleApp.pdb
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.csproj.AssemblyReference.cache
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.AssemblyInfoInputs.cache
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.AssemblyInfo.cs
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.dll
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\ref\Magic8Ball.ConsoleApp.dll
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.pdb
+G:\Geteilte Ablagen\Projekte\Fun Projects\Ziqing Teaching\Magic8Ball.ConsoleApp\Magic8Ball.ConsoleApp\obj\Debug\net6.0\Magic8Ball.ConsoleApp.genruntimeconfig.cache

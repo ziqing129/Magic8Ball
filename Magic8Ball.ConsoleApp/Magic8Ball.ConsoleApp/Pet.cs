@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Magic8Ball.ConsoleApp
 {
-    internal class Pet
+    internal abstract class Pet
     {
         public Pet()
         {
@@ -23,5 +23,7 @@ namespace Magic8Ball.ConsoleApp
         {
             return $"My name is: {Name}!!";
         }
+
+        public abstract string GetMorningRoutine();
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alice\\source\\repos\\Magic8Ball\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj": {}
+    "G:\\Geteilte Ablagen\\Projekte\\Fun Projects\\Ziqing Teaching\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alice\\source\\repos\\Magic8Ball\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj": {
+    "G:\\Geteilte Ablagen\\Projekte\\Fun Projects\\Ziqing Teaching\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alice\\source\\repos\\Magic8Ball\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj",
+        "projectUniqueName": "G:\\Geteilte Ablagen\\Projekte\\Fun Projects\\Ziqing Teaching\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj",
         "projectName": "Magic8Ball.ConsoleApp",
-        "projectPath": "C:\\Users\\alice\\source\\repos\\Magic8Ball\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alice\\source\\repos\\Magic8Ball\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\obj\\",
+        "projectPath": "G:\\Geteilte Ablagen\\Projekte\\Fun Projects\\Ziqing Teaching\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
+        "outputPath": "G:\\Geteilte Ablagen\\Projekte\\Fun Projects\\Ziqing Teaching\\Magic8Ball.ConsoleApp\\Magic8Ball.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
